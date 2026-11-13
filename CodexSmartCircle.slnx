@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodexSmartCircle.Core/CodexSmartCircle.Core.csproj" />
+  <Project Path="CodexSmartCircle.Tests/CodexSmartCircle.Tests.csproj" />
+  <Project Path="CodexSmartCircle/CodexSmartCircle.csproj" />
+</Solution>

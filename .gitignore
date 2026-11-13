@@ -1,0 +1,15 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+/dist/
+settings.json
+runtime-diagnostics.json
+usage-history-v1.jsonl
+*.log
